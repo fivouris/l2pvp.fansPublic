@@ -47,7 +47,7 @@ CURRENCIES
 
 GAMEPLAY FEATURES
 - stuck subclass system – base class + one subclass stacked for unique builds
-- fast leveling – 1 monster = 1 level up
+- disabled level system - instant 80 level
 - balanced economy with adjusted drop rates
 - unlimited buff slots to maximize battle readiness
 - auto potion usage for seamless fights
@@ -58,9 +58,10 @@ GAMEPLAY FEATURES
 - killing spree rewards – strike down enemies and earn powerful bonuses
 - PvP title colors – customize your legacy based on PvP achievements
 - inactivity task always running, excluding inactive players from receiving rewards
+- chaotic farm monsters, reward all players for fighting them (reward doesn't split, it's the same for everyone)
 
 SKILLS & BALANCE
-- Real-time in-game balancer for fair class vs. class matchups.
+- real-time in-game balancer for fair class vs. class matchups
 - restoring life does not apply to monsters or bosses
 - the skill Might of Heaven has been updated to be usable on all types of mobs, not just undead ones
 - the skill Cancellation now removes buffs for 10 seconds, after which the buffs are automatically restored
@@ -112,7 +113,7 @@ DYNAMIC ARENA FIGHTS
 - earn extra rewards for taking down enemies
 - no healers or parties allowed – true solo combat
 - blessed arena bonus – enhanced rewards during special moments
-- **top contenders receive epic rewards
+- in every rotation, top 3 contenders receive epic rewards
 
 CLAN, CLAN HALL, SIEGES
 - disabled sub clans
@@ -159,6 +160,27 @@ ENTERTAINMENT & EVENTS
 - manual staff-led events for unique challenges
 - the awakening daily world event
 
+ARENA FIGHTS
+- player vs player showdown, prove your skills against the best warriors on the server
+- no gear or level restrictions — everyone is free to enter and show their prowess
+- earn points and trophies for each match you win
+- the top 3 players at the end of each week will be rewarded handsomely
+- watch ongoing battles in real time with the spectator option
+- instanced match — up to unlimited battles without interference
+- arena fights last for 60 minutes
+- starts every 1 hour, with a 1-hour rest in-between
+
+RAID BATTLES
+- team up and conquer powerful bosses in a special chaotic battlefield
+- a key of darkness is required to enter — use it to unlock the gate
+- once a key is used, the gate stays open for 10 seconds
+- if you want to leave at any time, just use /unstuck or talk to the gatekeeper
+- upon death, you can respawn or return to the nearest town
+- destroy bosses to earn valuable drops and rewards
+- slay the master boss to become a temporary hero for 24 hours
+- each battle lasts 60 minutes
+- starts every 1 hour, with a 1-hour rest in-between
+
 THE AWAKENING - DAILY WORLD EVENT
 - prepare for a massive raid boss battle every night at 21:15
 - fight together against a fearsome boss for 30 minutes
@@ -166,8 +188,10 @@ THE AWAKENING - DAILY WORLD EVENT
 - after the boss falls, the Loot Frenzy begins—unlimited chests spawn for all players to loot
 - automatic invitations are sent to all online players—don’t miss your chance to join the action
 - you may enter the battle by typing .awakening
+- temporary hero status (24 hours) for the mvp of the event
 
 EVENT ENGINE – 14 MODES OF GLORY!
+- running every 30 minutes
 - vote for the next event before it starts
 - join events easily using commands (.register | .leave | .events) or NPCs
 - see your score, kills, and time on the screen during events
