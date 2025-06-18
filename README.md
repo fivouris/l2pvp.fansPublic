@@ -305,8 +305,9 @@ COMMANDS
 - .register (event registration)
 - .cache (clear your client cache in-game)
 - .stats (check player's hidden attributes)
-- .inspect (inspect your target's equipment)
+- .inspect $target (inspect your target's equipment)
 - .awakening (the awakening teleport)
+- .droplist $target (inspect droplist of monster, boss)
 
 CONTRIBUTORS SECTION
 - subscription (7d, 14d plans)
