@@ -46,6 +46,7 @@ CURRENCIES
 - Arena Trophy - exclusive reward for participating arena fights
 
 GAMEPLAY FEATURES
+- pre opening system - you may enter 30 minutes before opening, create your character and wait in-game
 - stuck subclass system – base class + one subclass stacked for unique builds
 - disabled level system - instant 80 level
 - balanced economy with adjusted drop rates
