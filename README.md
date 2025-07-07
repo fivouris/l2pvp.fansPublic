@@ -60,6 +60,7 @@ GAMEPLAY FEATURES
 - PvP title colors – customize your legacy based on PvP achievements
 - inactivity task always running, excluding inactive players from receiving rewards
 - chaotic farm monsters, reward all players for fighting them (reward doesn't split, it's the same for everyone)
+- players who complete all their achievements will receive a unique skill reward: Shadow Step — an instant teleport to their enemy
 
 SKILLS & BALANCE
 - real-time in-game balancer for fair class vs. class matchups
