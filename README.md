@@ -202,10 +202,14 @@ EVENT ENGINE – 14 MODES OF GLORY!
 - spectator mode for those who want to watch the battle unfold
 - a detailed event panel tracks scores, winners, and rewards
 - summons & pets are not allowed to participate
+- if you remain inactive during the event, you will be excluded from receiving any rewards
 - get prizes for:
 ✔ winning, losing, or ranking among the top players
 ✔ every kill you land during the event
 ✔ scoring the First Blood
+✔ winners get full reward
+✔ tied players split the reward
+✔ non-top players get half as consolation
 
 Keep an eye on announcements, register quickly, and dive into the fight! Which event will you dominate next?
 
@@ -291,7 +295,7 @@ RETAIL COMMANDS
 - /allblock (blocks everything)
 - /allunblock (unblocks everything)
 - /gm (contact with server's management team)
-- /olympiadstat (olympiad records)
+- /olympiadstat (detailed olympiad records)
 - /time (shows real time)
 - /friendinvite 'name' (add players to your friend list)
 - /clanregroup (leader regroup all available members)
